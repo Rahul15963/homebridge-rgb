@@ -1,0 +1,22 @@
+{
+  "name": "homebridge-rgb",
+  "version": "1.0.0",
+  "description": "Home bridge rgb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul15963/homebridge-rgb.git"
+  },
+  "keywords": [
+    "homebridge-rgb"
+  ],
+  "author": "Rahul Dasgupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul15963/homebridge-rgb/issues"
+  },
+  "homepage": "https://github.com/Rahul15963/homebridge-rgb#readme"
+}
