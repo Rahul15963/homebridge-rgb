@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-rgb",
+  "name": "homebridge-rgb-test",
   "version": "1.0.0",
   "description": "Home bridge rgb",
   "main": "index.js",
